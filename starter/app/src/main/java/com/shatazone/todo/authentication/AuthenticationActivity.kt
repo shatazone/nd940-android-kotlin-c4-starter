@@ -2,7 +2,7 @@ package com.shatazone.todo.authentication
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.udacity.project4.R
+import com.shatazone.todo.R
 
 /**
  * This class should be the starting point of the app, It asks the users to sign in / register, and redirects the

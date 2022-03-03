@@ -5,10 +5,10 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
-import com.udacity.project4.R
+import com.shatazone.todo.R
 import com.shatazone.todo.base.BaseFragment
 import com.shatazone.todo.base.NavigationCommand
-import com.udacity.project4.databinding.FragmentSaveReminderBinding
+import com.shatazone.todo.databinding.FragmentSaveReminderBinding
 import com.shatazone.todo.utils.setDisplayHomeAsUpEnabled
 import org.koin.android.ext.android.inject
 

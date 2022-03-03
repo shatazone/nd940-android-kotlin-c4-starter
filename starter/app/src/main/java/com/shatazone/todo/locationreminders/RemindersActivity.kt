@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.navigation.fragment.NavHostFragment
-import com.udacity.project4.R
+import com.shatazone.todo.R
 import kotlinx.android.synthetic.main.activity_reminders.*
 
 /**

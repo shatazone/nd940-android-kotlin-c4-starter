@@ -4,9 +4,9 @@ package com.shatazone.todo.locationreminders.savereminder.selectreminderlocation
 import android.os.Bundle
 import android.view.*
 import androidx.databinding.DataBindingUtil
-import com.udacity.project4.R
+import com.shatazone.todo.R
 import com.shatazone.todo.base.BaseFragment
-import com.udacity.project4.databinding.FragmentSelectLocationBinding
+import com.shatazone.todo.databinding.FragmentSelectLocationBinding
 import com.shatazone.todo.locationreminders.savereminder.SaveReminderViewModel
 import com.shatazone.todo.utils.setDisplayHomeAsUpEnabled
 import org.koin.android.ext.android.inject

@@ -3,10 +3,10 @@ package com.shatazone.todo.locationreminders.reminderslist
 import android.os.Bundle
 import android.view.*
 import androidx.databinding.DataBindingUtil
-import com.udacity.project4.R
+import com.shatazone.todo.R
 import com.shatazone.todo.base.BaseFragment
 import com.shatazone.todo.base.NavigationCommand
-import com.udacity.project4.databinding.FragmentRemindersBinding
+import com.shatazone.todo.databinding.FragmentRemindersBinding
 import com.shatazone.todo.utils.setDisplayHomeAsUpEnabled
 import com.shatazone.todo.utils.setTitle
 import com.shatazone.todo.utils.setup

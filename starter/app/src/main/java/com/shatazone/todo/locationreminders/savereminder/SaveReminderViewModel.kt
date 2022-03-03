@@ -4,7 +4,7 @@ import android.app.Application
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
 import com.google.android.gms.maps.model.PointOfInterest
-import com.udacity.project4.R
+import com.shatazone.todo.R
 import com.shatazone.todo.base.BaseViewModel
 import com.shatazone.todo.base.NavigationCommand
 import com.shatazone.todo.locationreminders.data.ReminderDataSource

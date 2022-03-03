@@ -5,8 +5,8 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
-import com.udacity.project4.R
-import com.udacity.project4.databinding.ActivityReminderDescriptionBinding
+import com.shatazone.todo.R
+import com.shatazone.todo.databinding.ActivityReminderDescriptionBinding
 import com.shatazone.todo.locationreminders.reminderslist.ReminderDataItem
 
 /**

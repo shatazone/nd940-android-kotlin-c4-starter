@@ -1,6 +1,6 @@
 package com.shatazone.todo.locationreminders.reminderslist
 
-import com.udacity.project4.R
+import com.shatazone.todo.R
 import com.shatazone.todo.base.BaseRecyclerViewAdapter
 
 
